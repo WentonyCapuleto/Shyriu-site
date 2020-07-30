@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8/" >
+        <title>Informações sobre o Shiryu</title>
+        <style>
+            body {
+                font-family: Arial;
+                font-size: 10pt;
+            }
+            p {
+                text-align: justify;
+                text-indent: 20px;
+            }
+            article h1 {
+                font-size: 15pt;
+                color: #ffffff;
+                background-color: rgba(0,0,0,.3);
+                padding: 5px;
+                margin: 0px;
+            }
+            article h2{
+                font-size: 13pt;
+                color: #888888;
+                margin: 0px;
+            }
+            article {
+                margin-bottom: 800px;
+
+            }
+            img.img-dir {
+                display: block;
+                float: right;
+                margin-left: 5px; 
+            }
+        </style>
+    </head>
+
+<body>
+
+<article id="topo">
+    <header>
+        <h2>Clique sobre as áreas destacadas em vermelho</h2>
+    </header>
+<img src="_imagens/mao.png" alt="Mão apontando para a esquerda"/>
+</article>
+
+<article id="tridente" >
+    <header>
+        <h1>Tridente de Ouro</h1>
+            <!--<h2>Tridente de Ouro</h2>-->
+    </header>
+<p>A energia do cosmo do guerreiro jorra pela ponta do tridente, causando danos inimagináveis ao oponente atingido. Foi usada por Ikki para destruir o Pilar do Oceano Antártico, e por Aiolia de Leão contra o Muro das Lamentações.</p>
+<img src="_imagens/Tridente-Libra.jpg" alt="Tridente do Shiryu">
+</article>
+
+<article id="tonfa" >
+    <header>
+        <h1> Tonfá de Ouro</h1>
+            <!--<h2>Tonfa de Ouro</h2>-->
+    </header>
+<img src="_imagens/Tonfa-Libra.jpg" class="img-dir" alt="Tonfá do Shiryu" >
+<p>Essa Arma corresponde ao chamado do Cosmo do Cavaleiro que a carrega. Unindo o poder destrutivo do tonfá ao poder do cosmo do usuário, um único golpe dessa Arma define o rumo da batalha. Foi usada por Shaka de Virgem para destruir o muro das lamentações.</p>
+</article>
+
+<article id="escudo" >
+    <header>
+        <h1>Escudo de Ouro</h1>
+            <!--<h2> Escudo de Ouro </h2>-->
+    </header>
+<p>O escudo pode ser usado não somente para proteção, mas também para o ataque quando é arremessado. Foi utilizado por Shiryu e por Aiolia na luta contra Pontos. Somada ao seu peso, a rotação em alta velocidade aumenta seu poder destrutivo. Foi usada por Dohko para destruir o muro das lamentações.</p>
+<img src="_imagens/Libra-escudo.jpg" alt="Escudo do Shiryu" >
+</article>
+
+<article id="espada" > 
+    <header>
+    <h1>Espada de Ouro</h1>
+        <!--<h2>Espada de Ouro</h2>-->
+    </header>
+    <img src="_imagens/Espada-Libra.jpg" class="img-dir" alt="Espada de Shiryu" >
+<p>Uma espada altamente resistente. O fio de sua navalha é capaz de cortar até mesmo o esquife de gelo do Camus. Também foi usada por Shion durante a Guerra Santa, e por Mu contra o Muro das Lamentações. Foi usada também por Shiryu pra cortar o esquife de gelo de Camus de Aquário, libertando Hyoga de Cisne, que foi preso no esquife pelo próprio Camus de Aquário.</p>
+</article>
+
+<article id="barra">
+    <header>
+        <h1>Barra Tripla de Ouro</h1>
+    </header>
+    <img src="_imagens/Barra-Dupla-Tripla.jpg" class="img-dir" alt="Barra Dupla e Tripla de Ouro" >
+    <p>Com múltiplos modos de uso,a barra tripla exige muita habilidade do usuário. É eficaz tanto no ataque quanto na defesa. É constituído de três barras.</p>
+    <h1> Barra Dupla de Ouro </h1>
+    <p>Armazenando o Cosmo do usuário, o nunchaku de Libra espalha brilhos como estrelas a cada movimento. A corrente é flexível e estica-se o quanto quiser. É constituído de duas barras. Foi usada por Milo de Escorpião para destruir o muro das lamentações.E similar a thacos.</p>
+</article>
+
+<footer id="rodape">
+    <p>Copyright 2013 - by Wentony Oliveira</p>
+    <p><a href="http>//facebook.com/cursoemvideo"> Facebook</a> | <a href="http://twitter.com/cursoemvideo"> Twitter</a> </p>
+    </footer>
+
+</body>
+
+</html>
