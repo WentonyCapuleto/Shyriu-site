@@ -276,4 +276,29 @@ src: url("../fonts/bubblegum-sans-regular.otf");
 		text-align: center;
 	}
 
-	/* Parei na aula 21 */
+	@media only screen and (max-width: 1125px){
+		header#cabecalho img#icone{
+			left: 900px;
+		}
+	}
+
+	@media only screen and (max-width: 1066px){
+		header#cabecalho img#icone{
+			left: 870px;
+		}
+	}
+
+	@media only screen and (max-width: 1030px){
+		header#cabecalho img#icone{
+			left: 860px;
+		}
+	}
+
+	@media only screen and (max-width: 1024px){
+		header#cabecalho img#icone{
+			left: 840px;
+		}
+		nav#menu ul{
+			left: 470px;
+		}
+	}
