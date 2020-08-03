@@ -361,3 +361,25 @@ src: url("../fonts/bubblegum-sans-regular.otf");
 			width: 475px;
 		}
 	}
+@media only screen and (max-width: 500px){
+		header#cabecalho img#icone{
+			left: 350px;
+			top: 28px;
+		}
+		nav#menu ul{
+			left: -16px;
+		}
+		div#interface{
+			margin: -20px 12px 0px auto;
+    		width: 680px;
+		}
+
+		aside#lateral{
+			margin-right: 260px;
+    		width: 397px;
+		}
+
+		img#animacao1{
+			width: 400px;
+		}
+	}
