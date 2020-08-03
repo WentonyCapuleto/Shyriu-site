@@ -302,3 +302,40 @@ src: url("../fonts/bubblegum-sans-regular.otf");
 			left: 470px;
 		}
 	}
+
+@media only screen and (max-width: 1000px){
+		header#cabecalho img#icone{
+			left: 820px;
+		}
+		nav#menu ul{
+			left: 440px;
+		}
+		div#interface{
+			margin: -20px 64px 0px auto;
+		}
+	}
+	
+	@media only screen and (max-width: 984px){
+		header#cabecalho img#icone{
+			left: 790px;
+		}
+		nav#menu ul{
+			left: 420px;
+		}
+		div#interface{
+			margin: -20px 64px 0px auto;
+		}
+	}
+
+	@media only screen and (max-width: 948px){
+		header#cabecalho img#icone{
+			left: 776px;
+		}
+		nav#menu ul{
+			left: 420px;
+		}
+		div#interface{
+			margin: -20px 70px 0px auto;
+			width: 894px;
+		}
+	}
