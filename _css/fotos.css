@@ -108,3 +108,10 @@ ul#album-fotos li#foto06:hover {
     background-position: 0px 0px;
     background-size: 200px 200px;
 }
+
+@media(max-width:768px) {
+    ul#album-fotos li {
+        display: block;
+        width: calc(50% - 25px);
+    }
+}
